@@ -6,4 +6,5 @@
 - Nuxt4 future
 - Prisma
 - MySQL
+- Tailwindcss
   
