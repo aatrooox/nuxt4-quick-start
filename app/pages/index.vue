@@ -2,5 +2,5 @@
 
 </script>
 <template>
-  <div> 首页 </div>
+  <div class="bg-black text-white"> 首页 </div>
 </template>

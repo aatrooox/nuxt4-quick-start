@@ -5,5 +5,5 @@ export default defineNuxtConfig({
   future: {
     compatibilityVersion: 4
   },
-  modules: ["@prisma/nuxt"],
+  modules: ["@prisma/nuxt", "@nuxtjs/tailwindcss"],
 })
