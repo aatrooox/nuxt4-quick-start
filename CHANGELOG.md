@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.4.0
+
+[compare changes](https://github.com/aatrooox/nuxt4-quick-start/compare/v0.3.0...v0.4.0)
+
+### 🚀 Enhancements
+
+- 增加tailwindcss ([cec6953](https://github.com/aatrooox/nuxt4-quick-start/commit/cec6953))
+
+### ❤️ Contributors
+
+- Gnak <gnakzz@qq.com>
+
 ## v0.3.0
 
 [compare changes](https://github.com/aatrooox/nuxt4-quick-start/compare/v0.2.0...v0.3.0)
