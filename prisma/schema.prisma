@@ -1,0 +1,27 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider      = "prisma-client-js"
+  // native 为本机, 第二个为云服务器对应的openssl版本
+  binaryTargets = ["native", "debian-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id         Int     @id @default(autoincrement())
+  uid        String  @unique
+  email      String?
+  phone      String?
+  username   String  @unique
+  nickname   String? @unique
+  password   String
+  avatar_url String?
+  role       String  @default("user")
+
+  @@map("zzclub_user")
+}
