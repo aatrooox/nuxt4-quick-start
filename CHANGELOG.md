@@ -1,6 +1,10 @@
 # Changelog
 
 
+## v0.2.0
+
+[compare changes](https://github.com/aatrooox/nuxt4-quick-start/compare/v0.1.1...v0.2.0)
+
 ## v0.1.1
 
 [compare changes](https://github.com/aatrooox/nuxt4-quick-start/compare/v0.1.0...v0.1.1)
