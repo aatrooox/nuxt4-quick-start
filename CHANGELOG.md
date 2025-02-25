@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.4.1
+
+[compare changes](https://github.com/aatrooox/nuxt4-quick-start/compare/v0.4.0...v0.4.1)
+
+### 📖 Documentation
+
+- 更新文档 ([0b28d7d](https://github.com/aatrooox/nuxt4-quick-start/commit/0b28d7d))
+
+### ❤️ Contributors
+
+- Gnak <gnakzz@qq.com>
+
 ## v0.4.0
 
 [compare changes](https://github.com/aatrooox/nuxt4-quick-start/compare/v0.3.0...v0.4.0)
